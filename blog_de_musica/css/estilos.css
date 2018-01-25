@@ -92,3 +92,8 @@ article:nth-child(3){
 .sec-buscar {
     width: 100%;
 }
+
+.img-responsive{
+  margin-bottom: 10px;
+}
+
